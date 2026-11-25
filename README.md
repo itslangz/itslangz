@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- GTA VI / VICE CITY HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140b29,40:ff2a85,80:ff8c42,100:00f0ff&height=230&section=header&text=GILANG%20RYAN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=WELCOME%20TO%20LEONIDA%20%E2%80%A2%20WEB%20%26%20ANDROID%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Gilang Ryan Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140b29,40:ff2a85,80:ff8c42,100:00f0ff&height=230&section=header&text=GILANG%20RYAN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=WELCOME%20TO%20LEONIDA%20%E2%80%A2%20WEB%20%2B%20ANDROID%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Gilang Ryan Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Gilang+Ryan+Eka+Putra+%F0%9F%91%8B;Bachelor+of+Informatics+Graduate+%F0%9F%8E%93;Web+%26+Android+Developer+%F0%9F%92%BB;Building+Modern+%26+User-Friendly+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Gilang+Ryan+Eka+Putra+%F0%9F%91%8B;Bachelor+of+Informatics+Graduate+%F0%9F%8E%93;Web+%2B+Android+Developer+%F0%9F%92%BB;Building+Modern+%2B+User-Friendly+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
