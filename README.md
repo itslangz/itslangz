@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:140b29,40:ff2a85,80:ff8c42,100:00f0ff&height=230&section=header&text=GILANG%20RYAN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=WELCOME%20TO%20LEONIDA%20%E2%80%A2%20WEB%20%2B%20ANDROID%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Gilang Ryan Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Gilang+Ryan+Eka+Putra+%F0%9F%91%8B;Bachelor+of+Informatics+Graduate+%F0%9F%8E%93;Web+%2B+Android+Developer+%F0%9F%92%BB;Building+Modern+%2B+User-Friendly+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=28&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=45&lines=HI%2C+I'M+GILANG+RYAN+EKA+PUTRA;BACHELOR+OF+INFORMATICS+GRADUATE;WEB+%2B+ANDROID+DEVELOPER;BUILDING+MODERN+%2B+USER-FRIENDLY+APPS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,9 +17,11 @@
 
 ---
 
-## 🌴 Player Profile — Vice City Edition
-
-> *"Turning ideas into practical, modern, and user-friendly digital solutions."*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=32&duration=1000&pause=1000&repeat=false&color=FF2A85&center=true&vCenter=true&width=600&height=42&lines=%F0%9F%8C%B4+PLAYER+PROFILE+%E2%80%A2+VICE+CITY" alt="Player Profile" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Yellowtail&size=24&duration=1200&pause=1000&repeat=false&color=FF8C42&center=true&vCenter=true&width=650&height=38&lines=Turning+ideas+into+practical%2C+modern%2C+and+user-friendly+digital+solutions." alt="Vice City Tagline" />
+</div>
 
 <table>
   <tr>
@@ -48,7 +50,9 @@
 
 ---
 
-## 🔫 The Loadout — Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=32&duration=1000&pause=1000&repeat=false&color=00F0FF&center=true&vCenter=true&width=600&height=42&lines=%F0%9F%94%AB+THE+LOADOUT+%E2%80%A2+TECH+STACK" alt="The Loadout" />
+</div>
 
 <div align="center">
 
@@ -65,7 +69,9 @@
 
 ---
 
-## 📊 Wanted Level & Player Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=32&duration=1000&pause=1000&repeat=false&color=FF2A85&center=true&vCenter=true&width=600&height=42&lines=%F0%9F%93%8A+WANTED+LEVEL+%E2%80%A2+PLAYER+STATS" alt="Wanted Level" />
+</div>
 
 <div align="center">
 
@@ -82,7 +88,9 @@
 
 ---
 
-## 📈 Vice City Activity Graph & Dev Quote
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=32&duration=1000&pause=1000&repeat=false&color=00F0FF&center=true&vCenter=true&width=600&height=42&lines=%F0%9F%93%88+LEONIDA+ACTIVITY+%E2%80%A2+DEV+QUOTE" alt="Leonida Activity" />
+</div>
 
 <div align="center">
 
