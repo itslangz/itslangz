@@ -82,16 +82,12 @@
 
 ---
 
-## 🏆 Vice City Trophies & Top Contributions
+## 📈 Vice City Activity Graph & Dev Quote
 
 <div align="center">
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=itslangz&theme=synthwave&no-frame=false&no-bg=false&margin-w=6&column=7" alt="GitHub Trophies" />
-</p>
-
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=itslangz&limit=5&theme=synthwave&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itslangz&bg_color=0f071e&color=00f0ff&line=ff2a85&point=ff8c42&area=true&hide_border=false&custom_title=Leonida%20Contribution%20Graph" alt="Contribution Activity Graph" />
 </p>
 
 <p>
